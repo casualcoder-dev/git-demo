@@ -1,0 +1,1 @@
+prompt("are you gay?", "maybe");
